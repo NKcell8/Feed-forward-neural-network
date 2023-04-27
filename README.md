@@ -4,4 +4,3 @@ Link do zbioru danych: https://archive.ics.uci.edu/ml/datasets/statlog+(heart)
 
 Celem było przygotowanie kilku modeli sieci neuronowej feed forward i wybranie tego który najlepiej wykonywał klasyfikacje binarną, która miała na celu stwierdzenie czy ktoś jest chory czy nie.
 
-NOTE: Obecnie w notatniku jest problem z wyświetlaniem treści.
